@@ -23,5 +23,5 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </div>
 <div align="center">
-  <img src="https://i.ibb.co/whzJcpXh/assets-task-01k5rfehz0egwsnnq15ks4eh4h-1758536924-img-0.webp" alt="VoidRealm Banner" width="600"/>
+  <a href="https://freeimage.host/i/KVSRVMx"><img src="https://iili.io/KVSRVMx.md.webp" alt="KVSRVMx.md.webp" border="0"></a>
 </div>
